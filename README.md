@@ -1,1 +1,1 @@
-# web-dev-AIA-club
+# web-dev-AI-club
